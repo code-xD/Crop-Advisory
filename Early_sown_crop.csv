@@ -1,0 +1,181 @@
+week,crop stage,weather,advisory
+25,No crop,No rainfall,Filed preparation operation should be undertaken for better in situ moisture conservation
+25,No crop,No rainfall,If field already prepared conserve soil moisture and remove weeds by blade harrow
+25,No crop,Less than 25 mm,Filed preparation operation should be undertaken for better in situ moisture conservation
+25,No crop,Less than 25 mm,If field already prepared conserve soil moisture and remove weeds by blade harrow
+25,No crop,More than 25 mm,If field preparation operations not already undertaken do it now for better in situ moisture conservation
+25,No crop,More than 25 mm,Sowing can be done in prepared field if rainfall 40 mm using seed rate of 5 kg ha-1 after treating with Emisan @2g/kg + Thiram @4g/kg and Azetobector and PSB
+25,No crop,More than 25 mm,Plant spacing should be 45 x 15 cm
+25,No crop,More than 25 mm,Apply basal dose of fertilizers as per recommendation
+25,No crop,More than 50 mm,Field preparation and sow crop where not done already
+25,No crop,More than 50 mm,Follow seed treatment spacing and fertilizer application as above
+25,No crop,Very heavy rainfall,Drain excess water for timely vattar so as to carry out field preparation operations
+26,No crop,No rainfall,Filed preparation operation should be undertaken for better in situ moisture conservation
+26,No crop,No rainfall,If field already prepared conserve soil moisture and remove weeds by blade harrow
+26,No crop,Less than 25 mm,Filed preparation operation should be undertaken for better in situ moisture conservation
+26,No crop,Less than 25 mm,If field already prepared conserve soil moisture and remove weeds by blade harrow
+26,No crop,More than 25 mm,If field preparation operations not already undertaken do it now for better in situ moisture conservation
+26,No crop,More than 25 mm,Sowing can be done in prepared field if rainfall 40 mm using seed rate of 5 kg ha-1 after treating with Emisan @2g/kg + Thiram @4g/kg and Azetobector and PSB
+26,No crop,More than 25 mm,Plant spacing should be 45 x 15 cm
+26,No crop,More than 25 mm,Apply basal dose of fertilizers as per recommendation
+26,No crop,More than 50 mm,Field preparation and sow crop where not done already
+26,No crop,More than 50 mm,Follow seed treatment spacing and fertilizer application as above
+26,No crop,Very heavy rainfall,Drain excess water for timely vattar so as to carry out field preparation operations
+26,Seedling emergence and establishment stage,No rainfall,Monitor field for seedling emergence
+26,Seedling emergence and establishment stage,Less than 25 mm,Monitor field for seedling emergence and establishment
+26,Seedling emergence and establishment stage,Less than 25 mm,Gap filling by dibbling
+26,Seedling emergence and establishment stage,More than 25 mm,Monitor field for seedling emergence and establishment
+26,Seedling emergence and establishment stage,More than 25 mm,Gap filling by dibbling
+26,Seedling emergence and establishment stage,More than 50 mm,Monitor field for seedling emergence and establishment
+26,Seedling emergence and establishment stage,More than 50 mm,In case of poor plant stand re-sowing of field
+26,Seedling emergence and establishment stage,Very heavy rainfall,Drain out excess water
+26,Seedling emergence and establishment stage,Very heavy rainfall,In case of poor plant stand re-sowing of field
+27,Vegetative stage,No rainfall,Hoeing with wheel hand hoe/hand hoe for weed control and mulching
+27,Vegetative stage,Less than 25 mm,Monitor field for plant population and maintain recommended plant stand by thinning
+27,Vegetative stage,Less than 25 mm,In case of poor plant stand gap filling by transplanting while it is raining
+27,Vegetative stage,Less than 25 mm,Hoeing with wheel hand hoe/hand hoe for weed control and mulching
+27,Vegetative stage,More than 25 mm,Monitor field for plant population and maintain recommended plant stand by thinning
+27,Vegetative stage,More than 25 mm,In case of poor plant stand gap filling by transplanting while it is raining
+27,Vegetative stage,More than 25 mm,Hoeing with wheel hand hoe/hand hoe for weed control and mulching
+27,Vegetative stage,More than 25 mm,White grub may appear in light soil areas. Follow recommended control measures
+27,Vegetative stage,More than 50 mm,Monitor field for plant population and maintain recommended plant stand by thinning
+27,Vegetative stage,More than 50 mm,In case of poor plant stand gap filling by transplanting while it is raining
+27,Vegetative stage,More than 50 mm,Hoeing with wheel hand hoe/hand hoe for weed removal and mulching after vattar condition
+27,Vegetative stage,More than 50 mm,White grub may appear in light soil areas. Follow recommended control measures
+27,Vegetative stage,More than 50 mm,Drain out excess water
+27,Vegetative stage,Very heavy rainfall,Monitor field for plant population and maintain recommended plant stand by thinning
+27,Vegetative stage,Very heavy rainfall,In case of poor plant stand gap filling by transplanting while it is raining
+27,Vegetative stage,Very heavy rainfall,Hoeing with wheel hand hoe/hand hoe for weed removal and mulching after vattar condition
+27,Vegetative stage,Very heavy rainfall,White grub may appear in light soil areas. Follow recommended control measures
+28,Vegetative stage,No rainfall,Hoeing with wheel hand hoe/hand hoe for weed control and mulching for moisture conservation
+28,Vegetative stage,Less than 25 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+28,Vegetative stage,Less than 25 mm,White grub may appear in light soil areas. Follow recommended control measures
+28,Vegetative stage,Less than 25 mm,Top dress first supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+28,Vegetative stage,Less than 25 mm,In case of poor plant stand gap filling by transplanting while it is raining
+28,Vegetative stage,More than 25 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+28,Vegetative stage,More than 25 mm,White grub may appear in light soil areas. Follow recommended control measures
+28,Vegetative stage,More than 25 mm,Top dress first supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+28,Vegetative stage,More than 25 mm,In case of poor plant stand gap filling by transplanting while it is raining
+28,Vegetative stage,More than 50 mm,Drain out the excess water from the fields
+28,Vegetative stage,More than 50 mm,White grub may appear in light soil areas. Follow recommended control measures
+28,Vegetative stage,More than 50 mm,Top dress first supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+28,Vegetative stage,More than 50 mm,In case of poor plant stand gap filling by transplanting while it is raining
+28,Vegetative stage,Very heavy rainfall,Drain out the excess water from the fields
+28,Vegetative stage,Very heavy rainfall,In case of complete crop failure resowing/ transplanting should be done
+29,Flag leaf stage,No rainfall,Follow moisture conservation practices
+29,Flag leaf stage,Less than 25 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+29,Flag leaf stage,Less than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+29,Flag leaf stage,Less than 25 mm,Hoeing with wheel hand hoe/hand hoe for weed removal and mulching after vattar condition
+29,Flag leaf stage,More than 25 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+29,Flag leaf stage,More than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+29,Flag leaf stage,More than 25 mm,Hoeing with wheel hand hoe/hand hoe for weed removal and mulching after vattar condition
+29,Flag leaf stage,More than 50 mm,Drain out the excess water from the fields
+29,Flag leaf stage,More than 50 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+29,Flag leaf stage,More than 50 mm,Hoeing with wheel hand hoe/hand hoe for weed removal and mulching after vattar condition
+29,Flag leaf stage,Very heavy rainfall,Drain out the excess water from the fields
+30,Booting stage,No rainfall,Hoeing for weed control and mulching for moisture conservation
+30,Booting stage,Less than 25 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+30,Booting stage,Less than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+30,Booting stage,Less than 25 mm,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+30,Booting stage,Less than 25 mm,Ergot disease may appear remove the collateral host plants
+30,Booting stage,More than 25 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+30,Booting stage,More than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+30,Booting stage,More than 25 mm,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+30,Booting stage,More than 25 mm,Ergot disease may appear remove the collateral host plants
+30,Booting stage,More than 50 mm,Drain out the excess water from the fields
+30,Booting stage,More than 50 mm,Downy mildew may appear. Rouge out the infected plants. Spray the crop with 0.2% Mencozeb or Ridomil 25 WP (100 ppm)
+30,Booting stage,More than 50 mm,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+30,Booting stage,More than 50 mm,Ergot disease may appear remove the collateral host plants
+30,Booting stage,Very heavy rainfall,Drain out the excess water from the fields
+30,Booting stage,Very heavy rainfall,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition
+31,50 % flowering stage,No rainfall,In case of severe moisture stress. apply life saving irrigation
+31,50 % flowering stage,No rainfall,If irrigation facilities are not available reduce plant population by harvesting alternate row for green fodder under severe stress
+31,50 % flowering stage,Less than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+31,50 % flowering stage,Less than 25 mm,Ergot disease may appear remove the collateral host plants and spray Thiram 0.2 % or Copper Oxychloride 0.25% thrice
+31,50 % flowering stage,More than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+31,50 % flowering stage,More than 25 mm,Ergot disease may appear remove the collateral host plants and spray Thiram 0.2 % or Copper Oxychloride 0.25% thrice
+31,50 % flowering stage,More than 25 mm,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition if not applied earlier
+31,50 % flowering stage,More than 50 mm,Drain out the excess water from the fields
+31,50 % flowering stage,More than 50 mm,If possible provide staking to avoid lodging
+31,50 % flowering stage,More than 50 mm,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition if not applied earlier
+31,50 % flowering stage,Very heavy rainfall,Drain out the excess water from the fields
+31,50 % flowering stage,Very heavy rainfall,If possible provide staking to avoid lodging
+31,50 % flowering stage,Very heavy rainfall,Top dress second supplementary dose of nitrogen fertilizer @ 12.5 kg N/acre after vattar condition if not applied earlier
+32,Seed formation stage,No rainfall,In case of severe moisture stress. apply life saving irrigation
+32,Seed formation stage,Less than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+32,Seed formation stage,Less than 25 mm,Ergot disease may appear remove the collateral host plants and spray Thiram 0.2 % or Copper Oxychloride 0.25% thrice
+32,Seed formation stage,Less than 25 mm,Smut is expected. Remove smutted ear heads and spray the crop with 2 ppm Captafol followed by Zineb
+32,Seed formation stage,More than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+32,Seed formation stage,More than 25 mm,Ergot disease may appear remove the collateral host plants and spray Thiram 0.2 % or Copper Oxychloride 0.25% thrice
+32,Seed formation stage,More than 25 mm,Smut is expected. Remove smutted ear heads and spray the crop with 2 ppm Captafol followed by Zineb
+32,Seed formation stage,More than 50 mm,Drain out the excess water from the fields
+32,Seed formation stage,More than 50 mm,If possible provide staking to avoid lodging
+32,Seed formation stage,Very heavy rainfall,Drain out the excess water from the fields
+32,Seed formation stage,Very heavy rainfall,If possible provide staking to avoid lodging
+33,Milking stage,No rainfall,In case of severe moisture stress. apply life saving irrigation
+33,Milking stage,Less than 25 mm,Ergot disease may appear remove the collateral host plants and spray Thiram 0.2 % or Copper Oxychloride 0.25% thrice
+33,Milking stage,More than 25 mm,Red hairy caterpillar may attack the crop. Release of bio agent Trichogramma chilonis @ 30000 per acre/week and spray Endosulfan 35 EC@0.1%
+33,Milking stage,More than 25 mm,Ergot disease may appear remove the collateral host plants and spray Thiram 0.2 % or Copper Oxychloride 0.25% thrice
+33,Milking stage,More than 25 mm,Smut is expected. Remove smutted ear heads and spray the crop with 2 ppm Captafol followed by Zineb
+33,Milking stage,More than 50 mm,Drain out the excess water from the fields
+33,Milking stage,More than 50 mm,If possible provide staking to avoid lodging
+33,Milking stage,Very heavy rainfall,Drain out the excess water from the fields
+33,Milking stage,Very heavy rainfall,If possible provide staking to avoid lodging
+34,Dough stage,No rainfall,Bird scarring should be done either physically or using repellents/glittering ribbons
+34,Dough stage,Less than 25 mm,Bird scarring should be done either physically or using repellents/glittering ribbons
+34,Dough stage,Less than 25 mm,Lodging of plants may take place.Propping up may be practiced.
+34,Dough stage,More than 25 mm,Bird scarring should be done either physically or using repellents/glittering ribbons
+34,Dough stage,More than 25 mm,Lodging of plants may take place.Propping up may be practiced.
+34,Dough stage,More than 50 mm,Bird scarring should be done either physically or using repellents/glittering ribbons
+34,Dough stage,More than 50 mm,Lodging of plants may take place.Propping up may be practiced.
+34,Dough stage,Very heavy rainfall,Bird scarring should be done either physically or using repellents/glittering ribbons
+34,Dough stage,Very heavy rainfall,Remove excess water from the fields
+35,Harvesting stage,No rainfall,Monitor for grain maturity.The grain maturity can be judged by pressing the grain between thumb and index finger.At this stage material inside the grain is solid and hard and does not yield to pressure and also formation of small black layer in the hiler region of the seed.
+35,Harvesting stage,No rainfall,Harvested earheads may be shifted to safer place
+35,Harvesting stage,Less than 25 mm,Monitor for grain maturity.The grain maturity can be judged by pressing the grain between thumb and index finger.At this stage material inside the grain is solid and hard and does not yield to pressure and also formation of small black layer in the hiler region of the seed.
+35,Harvesting stage,Less than 25 mm,Harvested earheads may be shifted to safer place
+35,Harvesting stage,More than 25 mm,Monitor for grain maturity.The grain maturity can be judged by pressing the grain between thumb and index finger.At this stage material inside the grain is solid and hard and does not yield to pressure and also formation of small black layer in the hiler region of the seed.
+35,Harvesting stage,More than 25 mm,Harvested earheads may be shifted to safer place
+35,Harvesting stage,More than 50 mm,After substantial drying crop may be harvested
+35,Harvesting stage,Very heavy rainfall,After substantial drying crop may be harvested
+36,Threshing,No rainfall,Threshing operations should be done only under clear weather conditions
+36,Threshing,No rainfall,Store/Market the produce under clear weather conditions
+36,Threshing,Less than 25 mm,Threshing operations should be done only under clear weather conditions
+36,Threshing,Less than 25 mm,Store/Market the produce under clear weather conditions
+36,Threshing,More than 25 mm,Threshing operations should be done only under clear weather conditions
+36,Threshing,More than 25 mm,Store/Market the produce under clear weather conditions
+36,Threshing,More than 50 mm,Threshing operations should be done only under clear weather conditions
+36,Threshing,More than 50 mm,Store/Market the produce under clear weather conditions
+36,Threshing,Very heavy rainfall,Threshing operations should be done only under clear weather conditions
+36,Threshing,Very heavy rainfall,Store/Market the produce under clear weather conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
